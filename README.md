@@ -1,3 +1,3 @@
-# 98percentcarbon.github.io
+# 98percent
 
 ## The landing page
